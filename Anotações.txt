@@ -1,0 +1,2 @@
+Mudança da nomenclatura master para main.
+comando: git branch -M "main".
